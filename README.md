@@ -2,4 +2,4 @@
 
 Editing file
 
-Markdown file in repository
+Markdown file in repositorY
